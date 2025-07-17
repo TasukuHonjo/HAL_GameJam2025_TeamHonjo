@@ -1,0 +1,2 @@
+# HAL_GameJam2025_TeamHonjo
+HAL大阪で行われる夏のゲームジャム2025用のリポジトリ
