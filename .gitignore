@@ -73,3 +73,26 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Binaries
+# DerivedDataCache
+# Intermediate
+# Saved
+# .vscode
+# *.opendb
+# *.sdf
+# *.sln
+# *.suo
+# *.xcodeproj
+# *.xcworkspace
+# *.log
+# Saved/Logs/GameJam2025Project.log
+# /GameJam2025Project.log
+# *.bin
+# */Saved/
+# /Intermediate/
+# /DerivedDataCache/
+# /Config/Windows/
+# /Config/Linux/
+# /Config/Mac/
+# GameJam2025Project/Saved/AutoScreenshot.png
